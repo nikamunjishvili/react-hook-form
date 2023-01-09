@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-hook-form/static/js/main.595677dd.js",
+    "static/media/bg-intro-desktop.png": "/react-hook-form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/react-hook-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/react-hook-form/index.html",
+    "main.595677dd.js.map": "/react-hook-form/static/js/main.595677dd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.595677dd.js"
+  ]
+}
